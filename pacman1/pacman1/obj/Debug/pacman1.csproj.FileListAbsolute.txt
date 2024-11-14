@@ -1,0 +1,14 @@
+C:\Users\Федор\source\repos\pacman1\pacman1\bin\Debug\pacman1.exe.config
+C:\Users\Федор\source\repos\pacman1\pacman1\bin\Debug\pacman1.exe
+C:\Users\Федор\source\repos\pacman1\pacman1\bin\Debug\pacman1.pdb
+C:\Users\Федор\source\repos\pacman1\pacman1\obj\Debug\pacman1.csproj.AssemblyReference.cache
+C:\Users\Федор\source\repos\pacman1\pacman1\obj\Debug\pacman1.csproj.CoreCompileInputs.cache
+C:\Users\Федор\source\repos\pacman1\pacman1\obj\Debug\pacman1.exe
+C:\Users\Федор\source\repos\pacman1\pacman1\obj\Debug\pacman1.pdb
+C:\Projects\git-examples\pacman1\pacman1\bin\Debug\pacman1.exe.config
+C:\Projects\git-examples\pacman1\pacman1\bin\Debug\pacman1.exe
+C:\Projects\git-examples\pacman1\pacman1\bin\Debug\pacman1.pdb
+C:\Projects\git-examples\pacman1\pacman1\obj\Debug\pacman1.csproj.AssemblyReference.cache
+C:\Projects\git-examples\pacman1\pacman1\obj\Debug\pacman1.csproj.CoreCompileInputs.cache
+C:\Projects\git-examples\pacman1\pacman1\obj\Debug\pacman1.exe
+C:\Projects\git-examples\pacman1\pacman1\obj\Debug\pacman1.pdb

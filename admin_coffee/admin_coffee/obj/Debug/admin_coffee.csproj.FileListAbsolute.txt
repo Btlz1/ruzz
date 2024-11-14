@@ -1,0 +1,7 @@
+C:\Users\Федор\source\repos\admin_coffee\admin_coffee\bin\Debug\admin_coffee.exe.config
+C:\Users\Федор\source\repos\admin_coffee\admin_coffee\bin\Debug\admin_coffee.exe
+C:\Users\Федор\source\repos\admin_coffee\admin_coffee\bin\Debug\admin_coffee.pdb
+C:\Users\Федор\source\repos\admin_coffee\admin_coffee\obj\Debug\admin_coffee.csproj.AssemblyReference.cache
+C:\Users\Федор\source\repos\admin_coffee\admin_coffee\obj\Debug\admin_coffee.csproj.CoreCompileInputs.cache
+C:\Users\Федор\source\repos\admin_coffee\admin_coffee\obj\Debug\admin_coffee.exe
+C:\Users\Федор\source\repos\admin_coffee\admin_coffee\obj\Debug\admin_coffee.pdb

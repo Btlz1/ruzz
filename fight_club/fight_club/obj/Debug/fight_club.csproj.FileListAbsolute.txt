@@ -1,0 +1,7 @@
+C:\Users\Федор\source\repos\fight_club\fight_club\bin\Debug\fight_club.exe.config
+C:\Users\Федор\source\repos\fight_club\fight_club\bin\Debug\fight_club.exe
+C:\Users\Федор\source\repos\fight_club\fight_club\bin\Debug\fight_club.pdb
+C:\Users\Федор\source\repos\fight_club\fight_club\obj\Debug\fight_club.csproj.AssemblyReference.cache
+C:\Users\Федор\source\repos\fight_club\fight_club\obj\Debug\fight_club.csproj.CoreCompileInputs.cache
+C:\Users\Федор\source\repos\fight_club\fight_club\obj\Debug\fight_club.exe
+C:\Users\Федор\source\repos\fight_club\fight_club\obj\Debug\fight_club.pdb

@@ -1,0 +1,7 @@
+C:\Users\Федор\source\repos\computer club\computer club\bin\Debug\computer club.exe.config
+C:\Users\Федор\source\repos\computer club\computer club\bin\Debug\computer club.exe
+C:\Users\Федор\source\repos\computer club\computer club\bin\Debug\computer club.pdb
+C:\Users\Федор\source\repos\computer club\computer club\obj\Debug\computer club.csproj.AssemblyReference.cache
+C:\Users\Федор\source\repos\computer club\computer club\obj\Debug\computer club.csproj.CoreCompileInputs.cache
+C:\Users\Федор\source\repos\computer club\computer club\obj\Debug\computer club.exe
+C:\Users\Федор\source\repos\computer club\computer club\obj\Debug\computer club.pdb

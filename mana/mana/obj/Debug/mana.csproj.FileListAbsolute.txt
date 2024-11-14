@@ -1,0 +1,7 @@
+C:\Users\Федор\source\repos\mana\mana\bin\Debug\mana.exe.config
+C:\Users\Федор\source\repos\mana\mana\bin\Debug\mana.exe
+C:\Users\Федор\source\repos\mana\mana\bin\Debug\mana.pdb
+C:\Users\Федор\source\repos\mana\mana\obj\Debug\mana.csproj.AssemblyReference.cache
+C:\Users\Федор\source\repos\mana\mana\obj\Debug\mana.csproj.CoreCompileInputs.cache
+C:\Users\Федор\source\repos\mana\mana\obj\Debug\mana.exe
+C:\Users\Федор\source\repos\mana\mana\obj\Debug\mana.pdb

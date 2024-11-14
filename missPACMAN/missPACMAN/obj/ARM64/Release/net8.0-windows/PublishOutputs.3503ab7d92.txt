@@ -1,0 +1,5 @@
+C:\Users\Федор\source\repos\missPACMAN\missPACMAN\bin\Release\net8.0-windows\app.publish\missPACMAN.exe
+C:\Users\Федор\source\repos\missPACMAN\missPACMAN\bin\Release\net8.0-windows\app.publish\missPACMAN.dll
+C:\Users\Федор\source\repos\missPACMAN\missPACMAN\bin\Release\net8.0-windows\app.publish\missPACMAN.deps.json
+C:\Users\Федор\source\repos\missPACMAN\missPACMAN\bin\Release\net8.0-windows\app.publish\missPACMAN.runtimeconfig.json
+C:\Users\Федор\source\repos\missPACMAN\missPACMAN\bin\Release\net8.0-windows\app.publish\missPACMAN.pdb

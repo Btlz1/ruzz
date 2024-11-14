@@ -1,0 +1,17 @@
+C:\Users\Федор\source\repos\missPACMAN\missPACMAN\bin\x64\Debug\net8.0-windows\missPACMAN.exe
+C:\Users\Федор\source\repos\missPACMAN\missPACMAN\bin\x64\Debug\net8.0-windows\missPACMAN.deps.json
+C:\Users\Федор\source\repos\missPACMAN\missPACMAN\bin\x64\Debug\net8.0-windows\missPACMAN.runtimeconfig.json
+C:\Users\Федор\source\repos\missPACMAN\missPACMAN\bin\x64\Debug\net8.0-windows\missPACMAN.dll
+C:\Users\Федор\source\repos\missPACMAN\missPACMAN\bin\x64\Debug\net8.0-windows\missPACMAN.pdb
+C:\Users\Федор\source\repos\missPACMAN\missPACMAN\obj\x64\Debug\net8.0-windows\missPACMAN.Game.resources
+C:\Users\Федор\source\repos\missPACMAN\missPACMAN\obj\x64\Debug\net8.0-windows\missPACMAN.Properties.Resources.resources
+C:\Users\Федор\source\repos\missPACMAN\missPACMAN\obj\x64\Debug\net8.0-windows\missPACMAN.csproj.GenerateResource.cache
+C:\Users\Федор\source\repos\missPACMAN\missPACMAN\obj\x64\Debug\net8.0-windows\missPACMAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Федор\source\repos\missPACMAN\missPACMAN\obj\x64\Debug\net8.0-windows\missPACMAN.AssemblyInfoInputs.cache
+C:\Users\Федор\source\repos\missPACMAN\missPACMAN\obj\x64\Debug\net8.0-windows\missPACMAN.AssemblyInfo.cs
+C:\Users\Федор\source\repos\missPACMAN\missPACMAN\obj\x64\Debug\net8.0-windows\missPACMAN.csproj.CoreCompileInputs.cache
+C:\Users\Федор\source\repos\missPACMAN\missPACMAN\obj\x64\Debug\net8.0-windows\missPACMAN.dll
+C:\Users\Федор\source\repos\missPACMAN\missPACMAN\obj\x64\Debug\net8.0-windows\refint\missPACMAN.dll
+C:\Users\Федор\source\repos\missPACMAN\missPACMAN\obj\x64\Debug\net8.0-windows\missPACMAN.pdb
+C:\Users\Федор\source\repos\missPACMAN\missPACMAN\obj\x64\Debug\net8.0-windows\missPACMAN.genruntimeconfig.cache
+C:\Users\Федор\source\repos\missPACMAN\missPACMAN\obj\x64\Debug\net8.0-windows\ref\missPACMAN.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\git-examples\\pacman1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{147AD428-EEC9-45E9-956C-AEA11064A216}|pacman1\\pacman1.csproj|c:\\projects\\git-examples\\pacman1\\pacman1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147AD428-EEC9-45E9-956C-AEA11064A216}|pacman1\\pacman1.csproj|solutionrelative:pacman1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\git-examples\\pacman1\\pacman1\\Program.cs",
+              "RelativeDocumentMoniker": "pacman1\\Program.cs",
+              "ToolTip": "C:\\Projects\\git-examples\\pacman1\\pacman1\\Program.cs",
+              "RelativeToolTip": "pacman1\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAvwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:21:07.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
