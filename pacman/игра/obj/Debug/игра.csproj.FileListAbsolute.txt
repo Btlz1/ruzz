@@ -1,0 +1,7 @@
+C:\Users\Федор\source\repos\игра\игра\bin\Debug\игра.exe.config
+C:\Users\Федор\source\repos\игра\игра\bin\Debug\игра.exe
+C:\Users\Федор\source\repos\игра\игра\bin\Debug\игра.pdb
+C:\Users\Федор\source\repos\игра\игра\obj\Debug\игра.csproj.AssemblyReference.cache
+C:\Users\Федор\source\repos\игра\игра\obj\Debug\игра.csproj.CoreCompileInputs.cache
+C:\Users\Федор\source\repos\игра\игра\obj\Debug\игра.exe
+C:\Users\Федор\source\repos\игра\игра\obj\Debug\игра.pdb
